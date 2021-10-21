@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=f:\Melody\Thesis\IntelSGX-master\Thesis-Project\core\enclave\target\rls\debug\build\typenum-2c6dfa9a2bde04d0\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=f:\Melody\Thesis\IntelSGX-master\Thesis-Project\core\enclave\target\rls\debug\build\typenum-2c6dfa9a2bde04d0\out\op.rs
