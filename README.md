@@ -1,3 +1,3 @@
 # Thesis-Project
-Demo
-A project about data escrow with SGX and Blockchain
+A project about data escrow with SGX and Blockchain:
+Not complete
