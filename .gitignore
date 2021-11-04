@@ -1,5 +1,6 @@
 .idea
 Cargo.lock
+.DS_Store
 
 #object file
 *.o
@@ -11,17 +12,16 @@ Cargo.lock
 *.so
 *.so.*
 
-#generated proxy
-samplecode/**/*_u.c
-samplecode/**/*_u.h
-samplecode/**/*_t.c
-samplecode/**/*_t.h
-samplecode/**/bin/app
-
 **/target
 
 #generated assembly
 third_party/ring/pregenerated
+
+# proxy files
+*_u.c
+*_u.h
+*_t.c
+*_t.h
 
 #Bazel
 .clwb
